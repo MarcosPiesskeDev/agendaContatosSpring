@@ -3,8 +3,10 @@
 Esta é a configuração dos objetos e back-end do projeto Agenda de Contatos Web, onde possui as configurações de CRUD do projeto. Utilizando o Spring-Boot Java.
 
 ## Requisitos:
-Java 1.8+
-Maven APache
+
+* Java 1.8+
+* Maven APache
+
 
 ## Instalação 1.1:
 
