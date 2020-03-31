@@ -36,7 +36,9 @@ Esta é a configuração dos objetos e back-end do projeto Agenda de Contatos We
 2. Abra o terminal dentro do projeto clonado;
 3. Dê o seguinte comando: mvn spring-boot:run
 
-### OBS: Apenas o Back-End está funcioando, para fazer com que a interface funcione, deverás configurar o Front-End.
+### OBS: 
+
+Apenas o Back-End está funcioando, para fazer com que a interface funcione, deverás configurar o Front-End.
 
 ## Instalar o Front-End da aplicação:
 
