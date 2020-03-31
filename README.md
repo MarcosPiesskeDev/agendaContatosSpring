@@ -4,8 +4,8 @@ Esta é a configuração dos objetos e back-end do projeto Agenda de Contatos We
 
 ## Requisitos:
 
-* Java 1.8+
-* Maven APache
+* Java 1.8 +
+* Maven Apache 3.6.3 +
 
 
 ## Instalação 1.1:
