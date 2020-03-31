@@ -43,4 +43,4 @@ Apenas o Back-End está funcioando, para fazer com que a interface funcione, dev
 ## Instalar o Front-End da aplicação:
 
 1. Acessar o link: https://gitlab.com/Marcos_Piesske_Dev/agendaContatosFront
-2. Seguir o passo a passo no REDME.md do repositório acima.
+2. Seguir o passo a passo no README.md do repositório acima.
