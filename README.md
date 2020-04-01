@@ -32,7 +32,7 @@ Esta é a configuração dos objetos e back-end do projeto Agenda de Contatos We
 
 ## Instalação 1.2:
 
-1. Faça um clone deste projeto com este código:  git clone https://gitlab.com/Marcos_Piesske_Dev/agendaContatoSpring
+1. Faça um clone deste projeto com este código:  git clone https://github.com/MarcosPiesskeDev/agendaContatosSpring
 2. Abra o terminal dentro do projeto clonado;
 3. Dê o seguinte comando: mvn spring-boot:run
 
@@ -42,5 +42,5 @@ Apenas o Back-End está funcioando, para fazer com que a interface funcione, dev
 
 ## Instalar o Front-End da aplicação:
 
-1. Acessar o link: https://gitlab.com/Marcos_Piesske_Dev/agendaContatosFront
+1. Acessar o link: https://github.com/MarcosPiesskeDev/agendaContatosFront
 2. Seguir o passo a passo no README.md do repositório acima.
